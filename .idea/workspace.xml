@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4d5ad11-ae7c-4d0c-84aa-7d12a00ea37e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YkF3zBfUptskKK3XLl6A4UYfuz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Webstorm Project\Admin-PRJ-Sem_3\architectui-html-free\architectui-html-free\assets" />
+      <recent name="C:\Users\Admin\Webstorm Project\Admin-PRJ-Sem_3\architectui-html-free\architectui-html-free\assets\scripts" />
+      <recent name="C:\Users\Admin\Webstorm Project\Admin-PRJ-Sem_3\architectui-html-free\architectui-html-free\assets\images" />
+      <recent name="C:\Users\Admin\Webstorm Project\Admin-PRJ-Sem_3\architectui-html-free\architectui-html-free\assets\fonts" />
+      <recent name="C:\Users\Admin\Webstorm Project\Admin-PRJ-Sem_3\architectui-html-free\architectui-html-free\assets\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Webstorm Project\Admin-PRJ-Sem_3\architectui-html-free\architectui-html-free\signin-signup-form" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4d5ad11-ae7c-4d0c-84aa-7d12a00ea37e" name="Default Changelist" comment="" />
+      <created>1583478490332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583478490332</updated>
+      <workItem from="1583478492928" duration="9731000" />
+      <workItem from="1583718314286" duration="8171000" />
+      <workItem from="1583728595233" duration="603000" />
+      <workItem from="1583816272316" duration="959000" />
+      <workItem from="1583829198123" duration="8981000" />
+      <workItem from="1583895303656" duration="9296000" />
+      <workItem from="1584041236925" duration="644000" />
+      <workItem from="1584636336236" duration="2024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583722131583">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="467" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1473.864@0.0.1473.864" timestamp="1583722131583" />
+    <state x="517" y="191" key="FileChooserDialogImpl" timestamp="1583896490853">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="517" y="191" key="FileChooserDialogImpl/0.0.1473.864@0.0.1473.864" timestamp="1583896490853" />
+    <state x="381" y="159" width="711" height="546" key="find.popup" timestamp="1583724413000">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="381" y="159" width="711" height="546" key="find.popup/0.0.1473.864@0.0.1473.864" timestamp="1583724413000" />
+    <state x="398" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1583910956871">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="398" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1473.864@0.0.1473.864" timestamp="1583910956871" />
+  </component>
+</project>
